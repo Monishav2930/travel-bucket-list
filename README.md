@@ -1,19 +1,19 @@
-# 🗺️ Marauder's Travel Bucket List
+# 🌍 Smart Travel Itinerary Generator
 
-A magical travel bucket list app inspired by the **Harry Potter Marauder’s Map** — built using **Streamlit** and **Folium** 🌍✨
+A colorful and user-friendly **travel bucket list app** that allows users to add their dream destinations and view them on an **interactive map**.  
+Built using **Streamlit** and **Google Maps integration**, this project makes trip planning simple and engaging.
 
-## 🔮 Features
-- Interactive map with travel destinations
-- Magical Harry Potter-style UI (dark yellow + black theme)
-- Weather display for each destination
-- Easy-to-use interface for planning your dream trips
+## ✨ Features
+- Add and manage your personal travel bucket list
+- Interactive map visualization of all destinations
+- Simple and attractive UI for better user experience
+- Deployed on Streamlit Cloud for easy access
 
 ## 🛠 Built With
-- [Streamlit](https://streamlit.io)
-- [Folium](https://python-visualization.github.io/folium/)
-- [Python](https://www.python.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Geopy](https://github.com/geopy/geopy)
+- [Streamlit](https://streamlit.io) - Web App Framework  
+- [Python](https://www.python.org/) - Core Programming Language  
+- [Pandas](https://pandas.pydata.org/) - Data Handling  
+- [Google Maps API](https://developers.google.com/maps) - Map Integration  
 
 ## 🚀 How to Run Locally
 1. Clone the repo:
